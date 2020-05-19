@@ -25,8 +25,3 @@ LML
 MMR
 
 Your task is to develop the software that will parse the command and move the rover(s).
-
-Two more notes:
-
--	Make sure you ask all the questions you want to ask (Whatsapp, e-mail will do)
--	Make sure you briefly document your assumptions
